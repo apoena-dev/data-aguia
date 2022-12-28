@@ -1,0 +1,14 @@
+site_name: Data Águia
+theme:
+  name: material
+  language: pt-BR
+  features:
+      - toc
+plugins:
+  - search:
+      lang: pt
+  - tags:
+      tags_file: categorias.md
+markdown_extensions:
+  - toc:
+  - tables:
