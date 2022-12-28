@@ -15,5 +15,6 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install -r requirements.txt
-      - run: cd site/ 
+      - run: cd site/
+      - run: ls
       - run: mkdocs gh-deploy --force
