@@ -15,6 +15,5 @@ jobs:
         with:
           python-version: 3.x
         env:
-        CONFIG_FILE: site/mkdocs.yml
       - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
