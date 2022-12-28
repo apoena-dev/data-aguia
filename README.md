@@ -1,7 +1,7 @@
 
 # Data Águia
 
-**Documentação**: https://apoena-dev.github.io/data-aguia
+**Documentação**: https://apoena-dev.github.io/data-aguia/
 
 **Código Fonte**: <https://github.com/apoena-dev/data-aguia>
 
