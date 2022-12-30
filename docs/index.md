@@ -10,7 +10,7 @@ ___
     
     Repositório com código fonte do projeto.    
 
-**Gráficos**: <https://github.com/apoena-dev/data-aguia/images>
+**Gráficos**: <https://github.com/apoena-dev/data-aguia/charts>
 
     Diretório com as imagens do gráfico na extensão .png, organizados por tipo de gráfico.
 
