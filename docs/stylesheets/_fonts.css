@@ -1,0 +1,24 @@
+/*H1*/
+.md-typeset h1 {
+    font-size: 1.5em;
+    /*font-weight: 600;*/
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+}
+
+
+/*!*H2*!*/
+.md-typeset h4 {
+    /*font-size: 16px;*/
+    /*font-weight: 400;*/
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    /*text-align: center;*/
+
+}
+
+.md-typeset hr {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+
+}
