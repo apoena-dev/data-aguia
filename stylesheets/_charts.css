@@ -1,0 +1,41 @@
+/*MEDIA*/
+
+/*CHART*/
+.chart {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* LEGEND */
+g .infolayer {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (orientation: portrait) {
+.sectors{
+    width:90vw;
+    height:90vw;
+    }
+}
+
+@media (orientation: landscape) {
+.sectors{
+    width:80vh;
+    height:80vh;
+    }
+}
+
+@media (orientation: portrait) {
+.bars{
+    width:90vw;
+    height:90vw;
+    }
+}
+
+@media (orientation: landscape) {
+.bars{
+    width:80vh;
+    height:80vh;
+    }
+}

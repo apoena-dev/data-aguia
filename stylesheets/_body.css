@@ -1,0 +1,20 @@
+/*BODY*/
+.md-grid {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1440px;
+}
+
+.md-main__inner {
+    margin-top: 0;
+
+}
+
+/*.md-container {*/
+/*    height: 90vh;*/
+/*}*/
+
+/*.md-content__inner {*/
+/*    margin: 0 0 0;*/
+/*    padding-top: 0;*/
+/*}*/
